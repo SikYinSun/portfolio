@@ -15,8 +15,8 @@ export default function Contact() {
           <article className='contact_option'>
             <HiOutlineMailOpen className='contact_icon'/>
             <h4>Email</h4>
-            <h5>samuelssun0505@gmail.com</h5>
-            <a href="mailto:samuelssun0505@gmail.com">Send a message</a>
+            <h5>samuels.sy.sun@gmail.com</h5>
+            <a href="mailto:samuels.sy.sun@gmail.com">Send a message</a>
           </article>
           <article className='contact_option'>
             <HiOutlineDocumentDownload className='contact_icon'/>

@@ -57,14 +57,14 @@ export default function Experience() {
               <BsFillPatchCheckFill className='experience_detail_icon' />
               <div>
                 <h4>Node JS</h4>
-                <small className='text-light'>Experience</small>
+                <small className='text-light'>Basic</small>
               </div>
             </article>
             <article className='experience_detail'>
               <BsFillPatchCheckFill className='experience_detail_icon' />
               <div>
                 <h4>MongoDB</h4>
-                <small className='text-light'>Experience</small>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience_detail'>
@@ -78,14 +78,14 @@ export default function Experience() {
               <BsFillPatchCheckFill className='experience_detail_icon' />
               <div>
                 <h4>PostgreSQL</h4>
-                <small className='text-light'>Basic</small>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience_detail'>
               <BsFillPatchCheckFill className='experience_detail_icon' />
               <div>
                 <h4>Python</h4>
-                <small className='text-light'>Experience</small>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience_detail'>
@@ -99,7 +99,7 @@ export default function Experience() {
               <BsFillPatchCheckFill className='experience_detail_icon' />
               <div>
                 <h4>Java</h4>
-                <small className='text-light'>Basic</small>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
           </div>
