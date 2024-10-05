@@ -85,8 +85,8 @@ export default function Project() {
               </div>
               <h3>{title}</h3>
               <div className='portfolio_item-btn'> 
-                <a href={github} className='btn' target='_blank'>Github</a>
-                {demo.length > 1 && <a href={demo} className='btn btn-primary' target='_blank'>Demo</a>}
+                <a href={github} className='btn' target='noreferrer'>Github</a>
+                {demo.length > 1 && <a href={demo} className='btn btn-primary' target='noreferrer'>Demo</a>}
               </div>
               </article>
             )
