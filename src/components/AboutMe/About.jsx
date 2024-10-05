@@ -18,15 +18,16 @@ export default function About() {
         <div className='about_content'>
           <h2>A dedicated Full-Stack Developer based in Toronto, Ontario <IoLocationSharp /></h2>
 
-          <p>As a skilled full-stack developer, my expertise spans across both 
+          <p>
+            As a skilled full-stack developer, my expertise spans across both 
             front-end and back-end technologies. With proficiency in HTML, CSS, JavaScript, React, 
-            and a strong command of a back-end language like Python or Java, I specialize in developing 
+            and a strong command of a back-end language like JavaScript, Python and Java, I specialize in developing 
             robust web applications. My focus is on building scalable and efficient systems, 
             implementing complex functionality, and ensuring a seamless user experience. Leveraging my 
             problem-solving skills and knowledge of cutting-edge development tools, I thrive in 
             collaborative environments, working closely with cross-functional teams to deliver 
             high-quality solutions that meet and exceed client expectations. 
-            </p>
+          </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
