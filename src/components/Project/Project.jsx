@@ -18,49 +18,49 @@ const data = [
     demo: 'https://bookstore-react-ssr.onrender.com/'
   },
   {
-    id:1,
+    id:2,
     image: Task,
     title: 'Task Manager',
     github: 'https://github.com/SikYinSun/task-manager',
     demo: 'https://exquisite-chaja-b72f58.netlify.app/'
   },
   {
-    id:1,
+    id:3,
     image: Markdown,
     title: 'Markdown Live Preview',
     github: 'https://github.com/SikYinSun/markdown-previewer',
     demo: 'https://mellow-naiad-5c8450.netlify.app/'
   },
   {
-    id:1,
+    id:4,
     image: Recipe,
     title: 'No Time To Cook',
     github: 'https://github.com/cse110-fa21-group3/cse110-fa21-group3',
     demo: 'https://www.youtube.com/watch?v=FAJv7m4iheM'
   },
   {
-    id:2,
+    id:5,
     image: Drowsiness,
     title: 'Drowsiness Detection',
     github: 'https://github.com/SikYinSun/Drowsiness-Detection-Deployment',
     demo: ''
   },
   {
-    id:3,
+    id:6,
     image: Chinese,
     title: 'Chinese Sentiment Analysis',
     github: 'https://github.com/SikYinSun/Chinese-Sentiment-Analysis',
     demo: 'https://sikyinsun.github.io/Chinese-Sentiment-Analysis/'
   },
   {
-    id:4,
+    id:7,
     image: Covid,
     title: 'Covid-19 Detection',
     github: 'https://github.com/SikYinSun/COVID-19-Detection/tree/main',
     demo: 'https://sikyinsun.github.io/COVID-19-Detection/'
   },
   {
-    id:5,
+    id:8,
     image: Horn,
     title: 'EventListener',
     github: 'https://github.com/SikYinSun/EventListener',
