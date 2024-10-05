@@ -10,7 +10,7 @@ export default function Experience() {
 
       <div className="container experience_container">
         <div className="experience_frontend">
-          <h3>Frontend Development</h3>
+          <h3>Programming Languages</h3>
           <div className="experience_content">
             <article className='experience_detail'>
               <BsFillPatchCheckFill className='experience_detail_icon' />
@@ -36,48 +36,7 @@ export default function Experience() {
             <article className='experience_detail'>
               <BsFillPatchCheckFill className='experience_detail_icon' />
               <div>
-                <h4>Bootstrap</h4>
-                <small className='text-light'>Experience</small>
-              </div>
-            </article>
-            <article className='experience_detail'>
-              <BsFillPatchCheckFill className='experience_detail_icon' />
-              <div>
-                <h4>React</h4>
-                <small className='text-light'>Intermediate</small>
-              </div>
-            </article>
-          </div>
-        </div>
-
-        <div className="experience_backend">
-        <h3>Backend Development</h3>
-          <div className="experience_content">
-            <article className='experience_detail'>
-              <BsFillPatchCheckFill className='experience_detail_icon' />
-              <div>
-                <h4>Node JS</h4>
-                <small className='text-light'>Basic</small>
-              </div>
-            </article>
-            <article className='experience_detail'>
-              <BsFillPatchCheckFill className='experience_detail_icon' />
-              <div>
-                <h4>MongoDB</h4>
-                <small className='text-light'>Intermediate</small>
-              </div>
-            </article>
-            <article className='experience_detail'>
-              <BsFillPatchCheckFill className='experience_detail_icon' />
-              <div>
-                <h4>MySQL</h4>
-                <small className='text-light'>Basic</small>
-              </div>
-            </article>
-            <article className='experience_detail'>
-              <BsFillPatchCheckFill className='experience_detail_icon' />
-              <div>
-                <h4>PostgreSQL</h4>
+                <h4>TypeScript</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -91,14 +50,97 @@ export default function Experience() {
             <article className='experience_detail'>
               <BsFillPatchCheckFill className='experience_detail_icon' />
               <div>
-                <h4>C++</h4>
+                <h4>Java</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience_detail'>
               <BsFillPatchCheckFill className='experience_detail_icon' />
               <div>
-                <h4>Java</h4>
+                <h4>SQL</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience_detail'>
+              <BsFillPatchCheckFill className='experience_detail_icon' />
+              <div>
+                <h4>Tailwind</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+          </div>
+        </div>
+
+        <div className="experience_backend">
+        <h3>Framework/Tool</h3>
+          <div className="experience_content">
+            <article className='experience_detail'>
+              <BsFillPatchCheckFill className='experience_detail_icon' />
+              <div>
+                <h4>Node JS</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            {/* <article className='experience_detail'>
+              <BsFillPatchCheckFill className='experience_detail_icon' />
+              <div>
+                <h4>MongoDB</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article> */}
+            {/* <article className='experience_detail'>
+              <BsFillPatchCheckFill className='experience_detail_icon' />
+              <div>
+                <h4>MySQL</h4>
+                <small className='text-light'>Basic</small>
+              </div>
+            </article> */}
+            {/* <article className='experience_detail'>
+              <BsFillPatchCheckFill className='experience_detail_icon' />
+              <div>
+                <h4>PostgreSQL</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article> */}
+            <article className='experience_detail'>
+              <BsFillPatchCheckFill className='experience_detail_icon' />
+              <div>
+                <h4>Express JS</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience_detail'>
+              <BsFillPatchCheckFill className='experience_detail_icon' />
+              <div>
+                <h4>Redux</h4>
+                <small className='text-light'>Basic</small>
+              </div>
+            </article>
+            <article className='experience_detail'>
+              <BsFillPatchCheckFill className='experience_detail_icon' />
+              <div>
+                <h4>JDBC</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience_detail'>
+              <BsFillPatchCheckFill className='experience_detail_icon' />
+              <div>
+                <h4>Jira</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience_detail'>
+              <BsFillPatchCheckFill className='experience_detail_icon' />
+              <div>
+                <h4>Git</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience_detail'>
+              <BsFillPatchCheckFill className='experience_detail_icon' />
+              <div>
+                <h4>CI/CD</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>

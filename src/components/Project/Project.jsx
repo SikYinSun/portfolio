@@ -5,8 +5,32 @@ import Drowsiness from '../../assets/Drowsiness.jpg'
 import Chinese from '../../assets/Chinese Sentiment.jpg'
 import Covid from '../../assets/covid19.jpg'
 import Horn from '../../assets/horn.jpg'
+import Markdown from '../../assets/markdown.png'
+import Task from '../../assets/Task-manager.jpg'
+import BookStore from '../../assets/Bookstore.png'
 
 const data = [
+  {
+    id:1,
+    image: BookStore,
+    title: 'Book Store',
+    github: 'https://github.com/SikYinSun/Bookstore-React-SSR',
+    demo: 'https://bookstore-react-ssr.onrender.com/'
+  },
+  {
+    id:1,
+    image: Task,
+    title: 'Task Manager',
+    github: 'https://github.com/SikYinSun/task-manager',
+    demo: 'https://exquisite-chaja-b72f58.netlify.app/'
+  },
+  {
+    id:1,
+    image: Markdown,
+    title: 'Markdown Live Preview',
+    github: 'https://github.com/SikYinSun/markdown-previewer',
+    demo: 'https://mellow-naiad-5c8450.netlify.app/'
+  },
   {
     id:1,
     image: Recipe,
