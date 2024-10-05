@@ -11,7 +11,7 @@ export default function Nav() {
   const [activeNav, setActiveNav] = useState('#');
   return (
     <nav>
-      <a href='#' onClick={() => setActiveNav('#')} className={activeNav === '#' ? 'active' : ''}><TbHome2 /></a>
+      <a href='#home' onClick={() => setActiveNav('#home')} className={activeNav === '#home' ? 'active' : ''}><TbHome2 /></a>
       <a href='#about' onClick={() => setActiveNav('#about')} className={activeNav === '#about' ? 'active' : ''}><FaUser /></a>
       <a href='#experience' onClick={() => setActiveNav('#experience')} className={activeNav === '#experience' ? 'active' : ''}><FaBusinessTime /></a>
       <a href='#project' onClick={() => setActiveNav('#project')} className={activeNav === '#project' ? 'active' : ''}><AiOutlineProject /></a>
