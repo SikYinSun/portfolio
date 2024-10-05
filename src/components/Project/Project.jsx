@@ -8,6 +8,7 @@ import Horn from '../../assets/horn.jpg'
 import Markdown from '../../assets/markdown.png'
 import Task from '../../assets/Task-manager.jpg'
 import BookStore from '../../assets/Bookstore.png'
+import Music from '../../assets/Music.png'
 
 const data = [
   {
@@ -33,34 +34,41 @@ const data = [
   },
   {
     id:4,
+    image: Music,
+    title: 'Music Albums',
+    github: 'https://github.com/SikYinSun/AngularJS-music-album',
+    demo: 'https://fastidious-kringle-b02651.netlify.app/'
+  },
+  {
+    id:5,
     image: Recipe,
     title: 'No Time To Cook',
     github: 'https://github.com/cse110-fa21-group3/cse110-fa21-group3',
     demo: 'https://www.youtube.com/watch?v=FAJv7m4iheM'
   },
   {
-    id:5,
+    id:6,
     image: Drowsiness,
     title: 'Drowsiness Detection',
     github: 'https://github.com/SikYinSun/Drowsiness-Detection-Deployment',
     demo: ''
   },
   {
-    id:6,
+    id:7,
     image: Chinese,
     title: 'Chinese Sentiment Analysis',
     github: 'https://github.com/SikYinSun/Chinese-Sentiment-Analysis',
     demo: 'https://sikyinsun.github.io/Chinese-Sentiment-Analysis/'
   },
   {
-    id:7,
+    id:8,
     image: Covid,
     title: 'Covid-19 Detection',
     github: 'https://github.com/SikYinSun/COVID-19-Detection/tree/main',
     demo: 'https://sikyinsun.github.io/COVID-19-Detection/'
   },
   {
-    id:8,
+    id:9,
     image: Horn,
     title: 'EventListener',
     github: 'https://github.com/SikYinSun/EventListener',
